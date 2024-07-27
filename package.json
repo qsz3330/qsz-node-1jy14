@@ -1,0 +1,24 @@
+{
+    "name": "@qsz3330/qsz-node-1jy14",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qsz3330/qsz-node-1jy14.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "qsz3330",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qsz3330/qsz-node-1jy14/issues"
+    },
+    "homepage": "https://github.com/qsz3330/qsz-node-1jy14#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@qsz3330/qsz-node-1jy14": "^1.0.0"
+    }
+}
